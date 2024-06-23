@@ -1,8 +1,17 @@
-## Getting Started
+## Jogo de cartas slay the lascado
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+sistema desenvolvido usando a ide vscode e linguagem java.
+O sistema consiste em um jogo de cartas com criaçao de decks e batalhas simuladas.
+
+
 
 ## Folder Structure
+O projeto esta distribuido em um sistemas de package no source
+- Console entrada e saida de dados
+- Interface 
+- Models    classes de todos objetos
+- principal onde se encontra o metodo main de execução do programa
+- Sistema   contem tod fluxo de criacao de menus, listas, e consultas. 
 
 The workspace contains two folders by default, where:
 
